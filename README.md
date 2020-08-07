@@ -5,7 +5,7 @@
 
 ## Projet: Tic Tac Toe alias "Morpion Game"
 
-Voici quelques liens pour voir des images du programme:
+Voici quelques liens pour voir des images à quoi ressemble le jeu Tic Tac Toe ou Morpion
 
 [(https://media.tenor.com/videos/d6acfce5ffbf7046dcacdc8e781e0e3c/mp4)]
 
